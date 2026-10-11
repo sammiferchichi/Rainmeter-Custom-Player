@@ -2,7 +2,7 @@
 
 A dark-themed, rounded card-style music player widget for [Rainmeter](https://www.rainmeter.net/). Displays currently playing song information with full playback controls, powered by the **WebNowPlaying** plugin.
 
-![Preview](preview.jpg)
+
 
 ---
 
@@ -17,7 +17,7 @@ A dark-themed, rounded card-style music player widget for [Rainmeter](https://ww
 | Dark card design | Subtle gradient with customizable border |
 | Draggable | Reposition anywhere on desktop |
 | Dual source | Local media player + browser streaming (Spotify, YouTube Music, etc.) |
-| Cover gallery | 81 built-in covers with right-click navigation |
+| Cover gallery | 112 built-in covers with right-click navigation |
 | Customizable | Colors, sizes, fonts via `Variables.inc` |
 
 ---
@@ -56,7 +56,7 @@ MusicPlayerWidget/
     ├── LoadFolder.ps1           # Media folder loader (lyrics)
     ├── Fonts/                   # Allura, Great Vibes, Brittany
     ├── Images/                  # Icons: play, pause, prev, next, etc.
-    └── DefaultCovers/           # 81 built-in cover images
+    └── DefaultCovers/           # 112 built-in cover images
 ```
 
 ---
@@ -79,7 +79,7 @@ Edit `@Resources/Variables.inc`:
 | `CoverSize` | Cover size (px) | `240` |
 | `FontFamily` | Font name | `Segoe UI` |
 | `MusicFolder` | Local music path (for lyrics) | `%USERPROFILE%\Music` |
-| `DefaultCoverIndex` | Starting cover (1–81) | `1` |
+| `DefaultCoverIndex` | Starting cover (1–112) | `1` |
 | `CoverStatic` | `0` = follow music, `1` = static | `0` |
 
 ---
@@ -92,7 +92,7 @@ Edit `@Resources/Variables.inc`:
 | Previous Cover | Cycle to previous default cover |
 | Random Cover | Jump to random cover |
 | Cover Folder | Open covers folder in Explorer |
-| Change The Cover Go to N° | Enter specific cover number (1–81) |
+| Change The Cover Go to N° | Enter specific cover number (1–112) |
 | Music\|Load Folder | Load local media folder for lyrics |
 | Cover\|Static | Lock cover to selected image |
 | Cover\|Dynamic | Resume following album art |
@@ -105,7 +105,7 @@ Edit `@Resources/Variables.inc`:
 2. Plugin sends data (title, artist, cover, state, progress) to Rainmeter
 3. **Hybrid.lua** picks the best source — local player or web player
 4. Skin updates in real-time: cover art, title, progress bar, play/pause icon
-5. Right-click cover gallery to browse 81 default covers when idle
+5. Right-click cover gallery to browse 112 default covers when idle
 
 ---
 
