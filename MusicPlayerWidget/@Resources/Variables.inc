@@ -1,0 +1,25 @@
+[Variables]
+CardBgColorTop=4,0,1,255
+CardBgColorBottom=4,0,1,255
+TextPrimaryColor=255,255,255,255
+TextSecondaryColor=156,156,158,255
+AccentColor=52,199,89,255
+ButtonBgColor=255,255,255,255
+ButtonTextColor=0,0,0,255
+ProgressBgColor=58,58,60,255
+ProgressFillColor=255,255,255,255
+CardRadius=33
+CoverRadius=20
+BorderColor=255,59,48
+BorderAlpha=255
+BorderWidth=4
+FontFamily=Segoe UI
+SkinWidth=260
+SkinHeight=360
+CoverSize=240
+CoverMargin=10
+ShadowAlpha=128
+DefaultCoverIndex=1
+CoverStatic=0
+ShowLyrics=0
+MusicFolder=%USERPROFILE%\Music
