@@ -3,6 +3,7 @@
 ![Uploading +109 More (1).png…]()
 
 
+
 A dark-themed, rounded card-style music player widget for [Rainmeter](https://www.rainmeter.net/). Displays currently playing song information with full playback controls, powered by the **WebNowPlaying** plugin.
 
 
