@@ -1,6 +1,7 @@
 # Rainmeter Music Player Widget
 
-![Uploading +109 More (1).png…]()
+<img width="2560" height="1440" alt="More" src="https://github.com/user-attachments/assets/057ac48a-4491-4390-9dd1-7838fa18ae89" />
+
 
 
 
