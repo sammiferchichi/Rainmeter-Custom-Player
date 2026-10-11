@@ -13,6 +13,9 @@ A dark-themed, rounded card-style music player widget for [Rainmeter](https://ww
 
 ## Features
 
+<img width="763" height="500" alt="z" src="https://github.com/user-attachments/assets/77467008-91c5-452c-a88e-147258dfa443" />
+
+
 | Feature | Description |
 |---|---|
 | Album cover art | Automatic display with rounded corners |
